@@ -1,0 +1,7 @@
+What "we build" means at Minutrix.
+
+Ravera is a real-estate CRM we shipped for brokerages: leads, site visits, bookings, payments and accounting in one system, with a client portal and a field app for agents. Multi-tenant, live in production, real money moving through it.
+
+Websites, internal tools and AI-native systems, delivered in weeks. Start a project at minutrix.in.
+
+#minutrix #realestate #crm #proptech #saas #buildinpublic #indianstartups #softwaredevelopment
