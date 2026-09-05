@@ -1,0 +1,9 @@
+An AI agent is not a chatbot with a nicer name.
+
+A chatbot answers questions. An agent owns a job: it reads the invoices, categorises them, flags the odd one, and hands you a closed month. No prompt, no waiting, no "let me check".
+
+At Minutrix we deploy agents with one job each, wired into the tools you already use, and every output is reviewed by a human before it touches your books or your customers. AI does the analysis. People make the call.
+
+Three agents we ship most often are in the slides. Which one would save you the most hours a week? Tell us below.
+
+#minutrix #aiagents #aiautomation #founders #startupops #bookkeeping #salesautomation #futureofwork #indianstartups
