@@ -1,0 +1,18 @@
+How does Waymo turn AI into ~$355M in annualized revenue without a human driver?
+
+17 years of driving, training, simulation and safety testing, city by city. A fast layer (cameras, LiDAR, radar) sees and reacts. A slow layer (a vision-language model trained using Gemini) reasons about unusual roads. A Driver, Simulator and Critic loop keeps it learning, and big Teacher models are distilled into small, fast Student models that actually drive.
+
+Waymo didn't just put AI in a car. It built a system that can see, understand, decide, act and learn. That's the principle we build on at Minutrix: business context → AI → execution. Link in bio.
+
+Sources: Sacra (revenue, rides), Waymo blog (architecture, London).
+
+📷 Daniel Lu (User:dllu), CC BY-SA 4.0, via Wikimedia Commons
+📷 Dllu, CC BY-SA 4.0, via Wikimedia Commons
+📷 Daniel L. Lu, CC BY 4.0, via Wikimedia Commons
+📷 Thaddaeus Lim _th4d_, CC0, via Wikimedia Commons
+📷 TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons
+📷 Basile Morin, CC BY-SA 4.0, via Wikimedia Commons
+📷 Paul Silva, CC BY 2.0, via Wikimedia Commons
+📷 ajay_suresh, CC BY 4.0, via Wikimedia Commons
+
+#minutrix #waymo #selfdrivingcars #autonomousvehicles #artificialintelligence #lidar #gemini #aiforbusiness #machinelearning #startupindia

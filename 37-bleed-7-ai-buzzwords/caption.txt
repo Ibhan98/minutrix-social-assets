@@ -1,0 +1,9 @@
+7 AI buzzwords you'll be hearing a lot more about.
+
+Agentic AI, MCP, RAG, function calling, orchestration, vector databases, multi-agent systems. Every pitch this year leans on at least three of them. Most people in the room can't define one. After this carousel, you can.
+
+The short version: function calling lets a model act, MCP gives it one plug into your tools, RAG and vector databases give it your data, agents plan and loop, orchestration and multi-agent systems make several of them work as one. That stack is what we build at Minutrix. Save this for the next pitch you sit through. Link in bio.
+
+📷 Alexander Kordzaia, CC BY-SA 4.0, via Wikimedia Commons
+
+#minutrix #aibuzzwords #agenticai #aiagents #mcp #rag #vectordatabase #aiorchestration #multiagent #aiforbusiness #startupindia

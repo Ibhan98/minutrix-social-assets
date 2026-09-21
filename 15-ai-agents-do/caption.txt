@@ -1,0 +1,11 @@
+Your team is doing work an AI agent should have finished before lunch.
+
+Follow-ups, month-end packs, lead lists, invoice chasing, Monday reports. Hours every week of work that has a pattern. Anything with a pattern can be handed to an agent.
+
+An agent is not a chatbot. A chatbot answers questions; an agent owns a job and finishes it, on a trigger, not a prompt. At Minutrix we deploy agents with one job each, wired into the tools you already use, and every output is reviewed by a human before it touches your books or your customers.
+
+We build it, we run it with you for a month, and we teach your team to own it.
+
+Which job would you hand off first? Tell us below, or scope an agent at minutrix.in.
+
+#minutrix #aiagents #aiautomation #founders #startupops #salesautomation #bookkeeping #futureofwork #indianstartups #startupindia

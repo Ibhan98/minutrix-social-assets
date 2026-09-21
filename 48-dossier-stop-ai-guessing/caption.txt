@@ -1,0 +1,7 @@
+Part 2 of our hallucination report: how to make AI stop guessing.
+
+Last post covered why AI sounds sure when it's wrong. The fixes are practical. Give it your documents to answer from. Ask for the line it used. Allow "I don't know". Keep each chat to one task. Add a second pass that checks the answer against the sources. And keep a person on the final call when money, contracts or health are involved.
+
+That's how we build AI agents at Minutrix: grounded in your data, cited, and checked before anything reaches a customer. Save this and share it with whoever runs AI in your team. Link in bio.
+
+#minutrix #aihallucinations #rag #groundedai #aiagents #promptengineering #ailiteracy #aiforbusiness #startupindia

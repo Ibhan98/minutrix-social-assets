@@ -1,0 +1,7 @@
+India is building its own AI. Here is who is doing it.
+
+Sarvam AI is a Bengaluru startup founded in 2023 by Vivek Raghavan and Pratyush Kumar. It trains language, speech and document models from scratch for Indian languages, released Sarvam 30B and 105B as open weights in 2026, and became a unicorn in June with a $234M round led by HCLTech.
+
+Why it matters for business: a customer who calls in Tamil, or switches to Hinglish mid-sentence, can now be answered by AI in the same language. That is the layer we build at Minutrix: voice agents that pick up, understand and get the job done. (Figures: Sarvam via TechCrunch, June 2026. Minutrix is not affiliated with Sarvam AI.) Link in bio.
+
+#minutrix #sarvamai #indianai #sovereignai #indicai #voiceai #aiagents #madeinindia #startupindia #bengaluru #aiforbusiness

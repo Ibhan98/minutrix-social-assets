@@ -1,0 +1,7 @@
+Why can AI give a completely wrong answer while sounding 100% sure?
+
+It's called a hallucination: AI makes up a fact, a statistic, a source or a quote and presents it as real. Five things cause it: knowledge gaps, imperfect data, lost context in long chats, vague prompts, and a confident tone that hides all of it.
+
+Before you trust an answer: check the source, cross-check it, check the details, test it. AI helps you move faster. Your judgment still matters. Talk to us at Minutrix about AI that checks its own work. Link in bio.
+
+#minutrix #aihallucinations #artificialintelligence #generativeai #ailiteracy #factcheck #promptengineering #aiforbusiness #startupindia

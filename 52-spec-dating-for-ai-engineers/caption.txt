@@ -1,0 +1,7 @@
+Dating, explained for AI engineers. Prompt, context, fine-tuning, hallucination, AGI: the whole stack, applied to romance.
+
+Verdict: an extremely poorly documented system with terrible error messages and no API docs.
+
+The AI systems we build ship with docs, logs and evals. Dating, you're on your own. Send this to an engineer who needs it. Link in bio.
+
+#minutrix #aiengineering #aihumor #llm #promptengineering #finetuning #aihallucination #agi #techhumor #machinelearning

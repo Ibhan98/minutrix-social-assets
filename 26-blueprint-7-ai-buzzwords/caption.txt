@@ -1,0 +1,18 @@
+7 AI buzzwords, decoded.
+
+Agentic AI. MCP. RAG. Function calling. Orchestration. Vector databases. Multi-agent systems. Every "AI-powered" pitch this year uses at least three of these. Here is what each one actually means, in one slide each, and how they fit together.
+
+The short version: function calling lets a model act. MCP standardises how it plugs into your tools. RAG and vector databases give it your data. Agents plan and loop over those actions. Orchestration and multi-agent systems make several of them work as one.
+
+That stack is what we build at Minutrix, deployed inside real operations. Save this for the next pitch you sit through. Link in bio.
+
+📷 Peter Shanks from Hobart, Australia, CC BY 2.0, via Wikimedia Commons
+📷 Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons
+📷 Dsimic, CC BY-SA 4.0, via Wikimedia Commons
+📷 MarkBuckawicki, CC0, via Wikimedia Commons
+📷 The U.S. National Archives, No restrictions, via Wikimedia Commons
+📷 Alexander Kordzaia, CC BY-SA 4.0, via Wikimedia Commons
+📷 Dietmar Rabich, CC BY-SA 4.0, via Wikimedia Commons
+📷 rawpixel.com, CC0, via Wikimedia Commons
+
+#minutrix #agenticai #aiagents #mcp #rag #vectordatabase #aiorchestration #multiagent #aiforbusiness #workflowautomation #startupindia

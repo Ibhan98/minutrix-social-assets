@@ -1,0 +1,24 @@
+17 years. One robotaxi company. Zero drivers. 🚗
+
+Waymo's playbook, collage edition: cameras + LiDAR to see, a Gemini-trained model to reason, a simulator + critic to keep learning off the road, and big "teacher" models distilled into small, fast "student" models that do the actual driving.
+
+The lesson isn't "add AI". It's build a system that sees, decides, acts and learns. That's what we do for businesses at Minutrix. Save this one. Link in bio.
+
+Sources: Sacra (revenue, rides), Waymo blog (architecture, London).
+
+📷 Votpuske, CC BY 4.0, via Wikimedia Commons
+📷 9yz, CC BY 4.0, via Wikimedia Commons
+📷 Flckr user jurvetson (Steve Jurvetson). Trimmed and retouched with PS9 by Mariordo, CC BY-SA 2.0, via Wikimedia Commons
+📷 Daniel Lu (User:dllu), CC BY-SA 4.0, via Wikimedia Commons
+📷 Daniel L. Lu, CC BY 4.0, via Wikimedia Commons
+📷 Thaddaeus Lim _th4d_, CC0, via Wikimedia Commons
+📷 Dllu, CC BY 4.0, via Wikimedia Commons
+📷 BalticServers.com, CC BY-SA 3.0, via Wikimedia Commons
+📷 TaurusEmerald, CC BY-SA 4.0, via Wikimedia Commons
+📷 Basile Morin, CC BY-SA 4.0, via Wikimedia Commons
+📷 Ad Meskens, CC BY-SA 4.0, via Wikimedia Commons
+📷 Mliu92, CC BY-SA 3.0, via Wikimedia Commons
+📷 Dllu, CC BY-SA 4.0, via Wikimedia Commons
+📷 ajay_suresh, CC BY 4.0, via Wikimedia Commons
+
+#minutrix #robotaxi #driverlesscars #waymoone #aiexplained #lidar #distillation #aiagents #techcarousel #buildwithai
