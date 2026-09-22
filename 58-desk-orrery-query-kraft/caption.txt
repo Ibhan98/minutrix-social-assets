@@ -1,0 +1,7 @@
+Build notes, take two: three times plain logic beat a model in our own products.
+
+PR detection in Liftoff: plain logic, zero fake records. Table status in Restaurant Ops: a state machine, no latency on a Friday night. Categorising in Sona: rules sort, the model only writes the nudge.
+
+If the answer is already in the data, query it. Save the model for judgment you can measure. We'll tell you which parts of your product need one. Link in bio.
+
+#ainative #systemsdesign #productengineering #buildinpublic #aiengineering #softwaredevelopment #startups #orreryagency
