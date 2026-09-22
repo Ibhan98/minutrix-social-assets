@@ -1,0 +1,9 @@
+Chatbots answered questions. GPT-6 Astra takes over the computer.
+
+OpenAI's GPT-6 Astra (launched 3 Sept 2026) can use a computer the way you do: it reads the screen, decides the next step, clicks, types and changes course when something moves. It scores 72.6% on OSWorld 2.0, a benchmark of real desktop tasks. One sentence can now turn into finished work across several apps.
+
+Chatbots answered. Agents act. That's the kind of AI we build for businesses at Minutrix: AI that gets to work. Follow @minutrix.ai for more.
+
+Sources: OpenAI, Fortune (3 Sept 2026), DataCamp (OSWorld 2.0).
+
+#minutrix #gpt6 #openai #aiagents #computeruse #artificialintelligence #automation #futureofwork #aiforbusiness #startupindia
