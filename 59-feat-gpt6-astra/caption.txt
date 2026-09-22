@@ -1,0 +1,9 @@
+What if AI stopped waiting for you and started doing the work?
+
+OpenAI's GPT-6 Astra (launched 3 Sept 2026) can use a computer: it reads the screen, picks the next step, clicks, types and adapts when the page changes. It scores 72.6% on OSWorld 2.0, a test of real desktop tasks. One instruction can now become a finished workflow across several apps.
+
+That's the shift from AI assistant to AI agent, and it's what we build for businesses at Minutrix. We build AI that gets to work. Follow @minutrix.ai for more AI stories.
+
+Sources: OpenAI, Fortune (3 Sept 2026), DataCamp (OSWorld 2.0 score).
+
+#minutrix #gpt6 #openai #aiagents #computeruse #artificialintelligence #automation #futureofwork #aiforbusiness #startupindia
