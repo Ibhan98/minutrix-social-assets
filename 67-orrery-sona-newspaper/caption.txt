@@ -1,0 +1,9 @@
+A finance app that texts like a friend, not a spreadsheet.
+
+Sona reads your transactions and writes one plain-language nudge: what you spent, how it compares, the one move that fixes it. Rules do the sums and the sorting. The model only writes the sentence, because that is the only part that needs judgment.
+
+React Native, Expo, TypeScript. Concept build, offline-first, model called once a day.
+
+Want one like this? → orreryagency@gmail.com
+
+#ainative #fintech #reactnative #productdesign #buildinpublic #orreryagency
