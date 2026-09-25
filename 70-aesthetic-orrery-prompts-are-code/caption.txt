@@ -1,0 +1,9 @@
+Prompts are code. Most teams treat them like copy.
+
+Version every change. Review it in the same pull request as the code around it. Run thirty saved inputs before it ships. Keep the last good version one deploy away.
+
+The prompt is the most important logic in an AI product. It deserves the same discipline as the rest.
+
+If yours lives in one string nobody owns, link in bio.
+
+#ainative #promptengineering #softwareengineering #buildinpublic #orreryagency
