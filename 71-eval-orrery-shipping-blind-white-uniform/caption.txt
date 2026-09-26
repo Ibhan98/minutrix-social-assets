@@ -1,0 +1,9 @@
+Building AI without an eval set is shipping blind.
+
+Before we write a prompt, we write thirty examples. Thirty real inputs, including the ugly ones, each with the answer a good person would give. That is the spec. It turns "is it good?" into "27 of 30", and it scores every future prompt, model and price change.
+
+Models change every quarter. A good eval set is how you know in ten minutes whether to switch.
+
+Save this for your next AI feature. Link in bio.
+
+#ainative #aiengineering #evals #productengineering #orreryagency
