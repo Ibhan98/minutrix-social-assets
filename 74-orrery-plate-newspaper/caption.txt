@@ -1,0 +1,9 @@
+A reorder flow so short it feels like a mistake.
+
+Plate is a food-ordering concept: one-tap reorder, live rider tracking on a real map, and a cart that never makes you start over. There is no model in this flow. Some things just need to be right, fast, every time.
+
+React Native, Expo, Maps, Realtime.
+
+Want one like this? orreryagency.ai@gmail.com
+
+#reactnative #mobileapp #productdesign #expo #buildinpublic #orreryagency
