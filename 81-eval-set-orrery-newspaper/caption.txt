@@ -1,4 +1,4 @@
-"Make it summarise tickets" is not a spec. Thirty examples are.
+Thirty examples first. Then the prompt.
 
 Before we write a prompt, we write thirty real inputs, including the ugly ones, each with the answer a good person would give. That turns "is it good?" into "27 of 30", and scores every future prompt, model and price change.
 
