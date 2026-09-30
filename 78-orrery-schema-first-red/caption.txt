@@ -1,0 +1,9 @@
+We spent the first four weeks of an AI finance app building no AI.
+
+Accounts, transactions, categories, recurring detection. A Prisma-backed data model, typed end to end. Only then the model, which now just has to explain a clean month in three sentences.
+
+A model on top of a messy schema hallucinates structure. A model on top of a clean one just has to write.
+
+Schema first. Model second. orreryagency.ai@gmail.com
+
+#ainative #aiengineering #aiagency #productengineering #orreryagency
