@@ -1,0 +1,9 @@
+If the model returns a paragraph, your product has a parsing problem.
+
+Ask for a schema, not an essay. Validate every response, retry once, then fall back. Keep free text only where a person reads it.
+
+Do that and the model becomes a function with a contract: testable, loggable, swappable.
+
+Send this to whoever maintains the regex that parses your model's output. Model output breaking things downstream? orreryagency.ai@gmail.com
+
+#ainative #aiengineering #softwarearchitecture #buildinpublic #orreryagency
