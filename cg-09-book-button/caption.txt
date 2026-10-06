@@ -1,0 +1,3 @@
+Plenty of clinic sites have a Book button that's really a message form. The patient thinks they've booked. You find out on Monday.
+
+Comment AUDIT and we'll check what your button actually does.
