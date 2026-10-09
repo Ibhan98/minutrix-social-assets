@@ -1,0 +1,7 @@
+Same invoice. $12.88 and 17 days for most companies. $2.78 and 3 days for the best (Ardent Partners, 2025).
+
+AI reads the invoice, matches it to the PO and goods receipt, and only sends mismatches to a human, with the reason attached.
+
+Send this to whoever runs finance at your company.
+
+#Finance #AccountsPayable #Automation #AIinBusiness #Operations #Minutrix
