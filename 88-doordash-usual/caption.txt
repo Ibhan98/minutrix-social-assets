@@ -1,0 +1,11 @@
+What happens after you text DoorDash "order my usual"?
+
+Phone → account → order history → restaurant search → cart → confirm → saved card.
+
+The AI is the front door. The years of systems behind it do the real work, and when that data is off, the agent is too.
+
+(US waitlist beta only.)
+
+What system is your AI standing on?
+
+#AIInside #AIAgents #DoorDash #ProductDesign #Minutrix

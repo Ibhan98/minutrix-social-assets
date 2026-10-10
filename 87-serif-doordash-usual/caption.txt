@@ -1,0 +1,9 @@
+What happens after you text DoorDash "order my usual"?
+
+Your phone number is matched to your account. It reads your order history. "Usual" becomes your Friday-night order. It builds the cart, texts it back with photos, you confirm, and it checks out with your saved card. (US waitlist beta for now.)
+
+The chat is the front door. The years of accounts, history, catalogs and payments behind it do the real work, and when that data is off, the agent is too. That's the part we build at Minutrix: AI that gets to work. What would your customers text you? Follow @minutrix.ai for more.
+
+Sources: TechCrunch, DigitalToday (30 Sep 2026).
+
+#minutrix #aiinside #aiagents #doordash #productdesign #conversationalai #aiforbusiness #automation #startupindia
