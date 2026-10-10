@@ -1,9 +1,0 @@
-Motion should earn its place. On most sites it's just decoration.
-
-On Samurai System, the motion tells the story. Each scroll-triggered reveal answers the question the previous section raised. GSAP runs the entrance, Swiper runs the gallery, the page is usable in under two seconds, and no animation ever gets in the way of a click.
-
-Next.js 14, GSAP, Tailwind. Live.
-
-Want one like this? orreryagency.ai@gmail.com
-
-#webdesign #gsap #nextjs #creativeengineering #buildinpublic #orreryagency

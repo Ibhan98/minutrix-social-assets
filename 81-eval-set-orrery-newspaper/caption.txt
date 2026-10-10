@@ -1,7 +1,0 @@
-Thirty examples first. Then the prompt.
-
-Before we write a prompt, we write thirty real inputs, including the ugly ones, each with the answer a good person would give. That turns "is it good?" into "27 of 30", and scores every future prompt, model and price change.
-
-Models change every quarter. The eval set tells you in ten minutes whether to switch. orreryagency.ai@gmail.com
-
-#ainative #aiengineering #evals #productengineering #orreryagency

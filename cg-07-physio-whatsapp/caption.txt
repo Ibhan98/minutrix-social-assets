@@ -1,3 +1,0 @@
-Physio patients message after work, when your desk is closed. An assistant can answer slots, fees and directions and book the visit.
-
-Anything clinical gets passed to your physio. Comment AUDIT.

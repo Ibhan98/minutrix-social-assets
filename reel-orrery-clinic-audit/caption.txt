@@ -1,7 +1,0 @@
-A live audit of a sample Jubilee Hills dental clinic site, in the order a patient hits the problems: slow on mobile, a "Book appointment" button that opens a contact form, enquiries going to a Gmail inbox, a phone number you can't tap, and no Sunday timings.
-
-This is the kind of 3-minute screen recording we send clinics after a cold call. The site in this reel is a made-up sample, not a real clinic.
-
-Comment AUDIT and we'll record one for your clinic.
-
-#hyderabad #jubileehills #dentalclinic #clinicmarketing #websitedesign #orrery

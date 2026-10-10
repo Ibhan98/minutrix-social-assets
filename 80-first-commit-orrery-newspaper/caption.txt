@@ -1,7 +1,0 @@
-Month six is when most teams add the model. Too late.
-
-Whether AI holds in production is decided in the first commit. Three decisions at the start: what gets logged, where the model fails safely, and what the lift is measured against. Skip them and you get a demo that works once on stage.
-
-Load-bearing from commit one. Starting a build? orreryagency.ai@gmail.com
-
-#ainative #systemsdesign #productengineering #buildinpublic #orreryagency

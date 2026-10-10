@@ -1,9 +1,0 @@
-Whether AI holds in production is decided in the first commit, not the last sprint.
-
-Three decisions at the start: what gets logged, where the model fails safely, and what the lift is measured against. Skip them and you get a demo that works once on stage.
-
-That is what woven through means in practice. Load-bearing from commit one.
-
-If your roadmap says "add AI in Q4", read this first. orreryagency.ai@gmail.com
-
-#ainative #systemsdesign #productengineering #buildinpublic #orreryagency
