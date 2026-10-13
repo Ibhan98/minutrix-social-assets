@@ -1,0 +1,9 @@
+Meta is back in the frontier race.
+
+Its new model, Muse Wonder Full, scores 56 on the Artificial Analysis Intelligence Index: two points behind Claude Opus 5.5 and second in the world. It leads on long coding jobs and legal agent work, and still trails on coding from scratch, health questions and computer use.
+
+It's live on Meta's API and Muse Code at $4 / $20 per million tokens, with a 1M-token context. Would you switch? Tell us below.
+
+Benchmarks: Meta's launch table (max settings) and Artificial Analysis. Cover photo: Anthony Quintano, CC BY 2.0, via Wikimedia Commons.
+
+#minutrix #ai #meta #musewonder #llm #aimodels #artificialintelligence #aiagents #technews #benchmarks
